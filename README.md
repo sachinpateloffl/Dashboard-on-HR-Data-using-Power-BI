@@ -8,3 +8,11 @@ The HR dataset is a valuable resource for HR professionals and management, as it
 
 
 ![Project](https://github.com/sachinpateloffl/Dashboard-on-HR-Data-using-Power-BI/assets/98209638/ecc61cb4-c6e9-4436-befa-444d6b6c25e6)
+
+
+# Objective
+1. It shows the total nimber of employee.
+2. It shows number of people left the job moreover the attrition rate.
+3. It shows the average salary, average age and average year of work of employee.
+4. It shows the attrition by education.
+
