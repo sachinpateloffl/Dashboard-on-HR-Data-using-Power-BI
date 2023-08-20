@@ -11,7 +11,7 @@ The HR dataset is a valuable resource for HR professionals and management, as it
 
 
 # Objective
-1. It shows the total nimber of employee.
+1. It shows the total number of employees.
 2. It shows number of people left the job moreover the attrition rate.
 3. It shows the average salary, average age and average year of work of employee.
 4. It shows the attrition by education.
